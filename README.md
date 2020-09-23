@@ -15,6 +15,10 @@ Páginas
 		<td>Abner del Cid</td>
 		<td><a href="abnerdelcid.html">ver página</a></td>
 	</tr>
+	<tr>
+		<td>Jaqueline y Edwin</td>
+		<td> <a href="JaquelineMonterroso.html">Ver página</a></td>
+	</tr>
 </table>
  
 Esta 
